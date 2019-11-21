@@ -719,9 +719,9 @@ footer .foot_social a i:hover {
     line-height: 20px;
   }
   .navbar-brand > img  {
-      width: 50%;
+      width: 70%;
       position: relative;
-      bottom: 9px;
+      bottom: 39px;
   }
 
   /* line 742, ../sass/_main.scss */
