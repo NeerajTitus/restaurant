@@ -129,6 +129,8 @@ h3 {
   width: 22px;
   height: 2px;
   border-radius: 1px;
+  position: relative;
+  top: 23px;
 }
 /* line 132, ../sass/_main.scss */
 .navbar-default .navbar-collapse {
