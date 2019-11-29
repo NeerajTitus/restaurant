@@ -121,6 +121,8 @@ h3 {
 /* line 120, ../sass/_main.scss */
 .navbar-default .navbar-toggle {
   border-color: transparent;
+  position: relative;
+  top: 20px;
 }
 /* line 123, ../sass/_main.scss */
 .navbar-default .navbar-toggle .icon-bar {
@@ -129,8 +131,7 @@ h3 {
   width: 22px;
   height: 2px;
   border-radius: 1px;
-  position: relative;
-  top: 23px;
+ 
 }
 /* line 132, ../sass/_main.scss */
 .navbar-default .navbar-collapse {
